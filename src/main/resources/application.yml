@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: local
+
+app:
+  name: profile
+  version: 1.0.0

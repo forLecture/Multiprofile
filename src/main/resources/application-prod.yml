@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+app:
+  message: "Hello from Prod env"
+  database-url: jdbc:mysql://prod-db.com:3306/proddb

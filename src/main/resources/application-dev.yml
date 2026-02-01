@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+app:
+  message: "Hello from Dev env"
+  database-url: jdbc:mysql://dev-db.com:3306/devdb
